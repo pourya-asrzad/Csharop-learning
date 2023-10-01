@@ -10,7 +10,7 @@ namespace HelloWold
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("hii");
         }
     }
 }
