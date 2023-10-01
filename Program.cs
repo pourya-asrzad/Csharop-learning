@@ -10,7 +10,22 @@ namespace HelloWold
     {
         static void Main(string[] args)
         {
+            int Number = 1;
+            Console.WriteLine(Number);
             Console.WriteLine("hii");
+
+
+            //if 
+            if (20 > 18)
+            {
+                Console.WriteLine("20 is greater than 18");
+            }
+
+            //for 
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
