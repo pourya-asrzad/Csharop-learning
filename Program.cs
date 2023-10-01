@@ -10,6 +10,8 @@ namespace HelloWold
     {
         static void Main(string[] args)
         {
+            int Number = 1;
+            Console.WriteLine(Number);
             Console.WriteLine("hii");
         }
     }
