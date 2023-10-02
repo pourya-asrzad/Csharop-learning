@@ -18,7 +18,7 @@ namespace HelloWold
             //if 
             if (20 > 18)
             {
-                Console.WriteLine("20 is greater than 18");
+                Console.WriteLine("19 is greater than 18");
             }
 
             //for 
