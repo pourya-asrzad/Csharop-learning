@@ -15,9 +15,10 @@ namespace HelloWold
         public int Wheels;
         public string Color;
         public int Speed;
+        public bool IsStandard;
         public void printAtr()    // method
         {
-            Console.WriteLine("\n Name:{0} , Brand :{1} , color : {2} , price : {3} , Wheels : {4} , Speed : {4}", Name, Brand, Color, Price, Wheels, Speed);
+            Console.WriteLine("\n Name:{0} , Brand :{1} , color : {2} , price : {3} , Wheels : {4} , Speed : {5} , IsStandard : {6}", Name, Brand, Color, Price, Wheels, Speed, IsStandard);
         }
         public void speedUp()    // method
         {
@@ -43,6 +44,7 @@ namespace HelloWold
             myObj.Wheels = 4;
             myObj.Color = "blue";
             myObj.Speed = 180;
+            myObj.IsStandard = false;
             myObj.printAtr();
             myObj.speedUp();
             myObj.speedUp();
