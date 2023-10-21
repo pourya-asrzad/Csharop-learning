@@ -1,0 +1,14 @@
+H:\C#\session-2\bin\Debug\net7.0\session-2.exe
+H:\C#\session-2\bin\Debug\net7.0\session-2.deps.json
+H:\C#\session-2\bin\Debug\net7.0\session-2.runtimeconfig.json
+H:\C#\session-2\bin\Debug\net7.0\session-2.dll
+H:\C#\session-2\bin\Debug\net7.0\session-2.pdb
+H:\C#\session-2\obj\Debug\net7.0\session-2.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\session-2\obj\Debug\net7.0\session-2.AssemblyInfoInputs.cache
+H:\C#\session-2\obj\Debug\net7.0\session-2.AssemblyInfo.cs
+H:\C#\session-2\obj\Debug\net7.0\session-2.csproj.CoreCompileInputs.cache
+H:\C#\session-2\obj\Debug\net7.0\session-2.dll
+H:\C#\session-2\obj\Debug\net7.0\refint\session-2.dll
+H:\C#\session-2\obj\Debug\net7.0\session-2.pdb
+H:\C#\session-2\obj\Debug\net7.0\session-2.genruntimeconfig.cache
+H:\C#\session-2\obj\Debug\net7.0\ref\session-2.dll
