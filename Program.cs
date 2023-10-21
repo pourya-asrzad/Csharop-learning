@@ -6,26 +6,51 @@ using System.Threading.Tasks;
 
 namespace HelloWold
 {
+
+    class Car
+    {
+        public string Name;
+        public string Brand;
+        public float Price;
+        public int Wheels;
+        public string Color;
+        public int Speed;
+        public void printAtr()    // method
+        {
+            Console.WriteLine("\n Name:{0} , Brand :{1} , color : {2} , price : {3} , Wheels : {4} , Speed : {4}", Name, Brand, Color, Price, Wheels, Speed);
+        }
+        public void speedUp()    // method
+        {
+            Speed++;
+
+        }
+
+        public void breakUp()    // method
+        {
+            Speed -= 10;
+
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            int Number = 1;
-            Console.WriteLine(Number);
-            Console.WriteLine("hii");
+            Car myObj = new Car();
+            myObj.Brand = "saipa";
+            myObj.Name = "pride";
+            myObj.Price = 800000;
+            myObj.Wheels = 4;
+            myObj.Color = "blue";
+            myObj.Speed = 180;
+            myObj.printAtr();
+            myObj.speedUp();
+            myObj.speedUp();
+            myObj.speedUp();
+            myObj.speedUp();
+            myObj.breakUp();
+            Console.WriteLine(myObj.Speed);
+            Console.WriteLine(myObj.Color);
 
-
-            //if 
-            if (20 > 18)
-            {
-                Console.WriteLine("20 is greater than 18");
-            }
-
-            //for 
-            for (int i = 0; i < 5; i++)
-            {
-                Console.WriteLine(i);
-            }
         }
     }
 }
