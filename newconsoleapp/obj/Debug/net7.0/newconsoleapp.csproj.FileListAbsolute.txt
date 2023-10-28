@@ -1,0 +1,14 @@
+/media/red-hunter/New Volume/C#/newconsoleapp/bin/Debug/net7.0/newconsoleapp
+/media/red-hunter/New Volume/C#/newconsoleapp/bin/Debug/net7.0/newconsoleapp.deps.json
+/media/red-hunter/New Volume/C#/newconsoleapp/bin/Debug/net7.0/newconsoleapp.runtimeconfig.json
+/media/red-hunter/New Volume/C#/newconsoleapp/bin/Debug/net7.0/newconsoleapp.dll
+/media/red-hunter/New Volume/C#/newconsoleapp/bin/Debug/net7.0/newconsoleapp.pdb
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.AssemblyInfoInputs.cache
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.AssemblyInfo.cs
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.csproj.CoreCompileInputs.cache
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.dll
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/refint/newconsoleapp.dll
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.pdb
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/newconsoleapp.genruntimeconfig.cache
+/media/red-hunter/New Volume/C#/newconsoleapp/obj/Debug/net7.0/ref/newconsoleapp.dll
